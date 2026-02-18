@@ -1,3 +1,4 @@
+pip install --upgrade pip
 accelerate==1.10.1
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.15
@@ -237,4 +238,5 @@ wrapt==1.17.3
 wsproto==1.2.0
 yarl==1.20.1
 zipp==3.23.0
+
 
